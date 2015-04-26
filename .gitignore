@@ -1,3 +1,6 @@
 .bundle
 /bin
 /vendor
+
+*.sublime-project
+*.sublime-workspace
